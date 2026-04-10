@@ -80,7 +80,7 @@ Dentro del archivo se puede modificar:
 ---
 ## Uso responsable
 Este proyecto automatiza navegación web. Úsalo con responsabilidad:
-- Evita ejecturar con demasiada concurrencia.
+- Evita ejecutar con demasiada concurrencia.
 - Respeta políticas del sitio y términos de uso aplicables.
 - Considera pausas entre solicitudes si el sitio responde lento.
 
